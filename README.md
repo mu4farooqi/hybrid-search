@@ -1,1 +1,1 @@
-# hybrid-search
+# Hybrid Search
